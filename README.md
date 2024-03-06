@@ -1,7 +1,7 @@
 # Jobs Scrapping Program
 
 This Python program scrapes Python-related job listings from the NoFluffJobs website and generates an Excel file containing two sheets: one with job details `Jobs` and another with the count of skills mentioned in the job listings `Skills`.
-The program will scrape job listings from the NoFluffJobs website for Python-related positions. It will then generate an Excel file named `jobs_scrapping.xlsx` containing two sheets: `Jobs` and `Skills`.
+
 You can find the output Excel file in the same directory as the script.
 
 ## Description
