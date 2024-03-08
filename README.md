@@ -4,6 +4,12 @@ This Python program scrapes Python-related job listings from the NoFluffJobs web
 
 You can find the output Excel file in the same directory as the script.
 
+'Param_and_rec.py' returns offers with given paramters and extra jobs recommended by the website based on them.
+
+'Param_only.py' returns offers only with given parameters.
+
+All is based on Polish version of the website, so given criteria [skills, seniority, localisation has to be in this language as well.
+
 ## Description
 
 - The program scrapes job listings from the NoFluffJobs website for Python-related positions. It fetches details such as job title, company, salary, skills required, and the link to the job listing.
