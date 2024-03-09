@@ -10,7 +10,7 @@ You can find the output Excel file in the same directory as the script.
 
 `Param_only.py` returns offers only with given parameters.
 
-All is based on Polish version of the website, so given criteria [skills, seniority, localisation] has to be in this language as well.
+All is based on Polish version of the website, so given criteria [skills, seniority, localisation] have to be in this language as well.
 
 ## Description
 
